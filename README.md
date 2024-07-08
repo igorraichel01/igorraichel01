@@ -1,6 +1,6 @@
 # Olá! eu sou o Igor M.Raichel
 -🐱‍🏍 Atualmente  estou estudando Tecnologias móveis.<br>
--🤸‍♂️Habilidades: html, css, JavaScript, c, php, sql, unity, java<br>
+-🤸‍♂️Habilidades: Python, html, css, JavaScript, c, php, sql, unity, java<br>
 -🧧email: igorraichel@gmail.com
 
 <div>
