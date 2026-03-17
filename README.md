@@ -1,7 +1,7 @@
 # Olá! eu sou o Igor M.Raichel
 -🐱‍🏍 Trabalho com sistemas embarcados.<br>
 -🤸‍♂️Habilidades: Python, html, css, JavaScript, c, c++, php, sql, unity,c#, java<br>
--🧧email: igorraichel@gmail.com
+-🧧email: igorraichel@gmail.com 
 
 <div>
 <a href ="https://github.com/igorraichel01">
